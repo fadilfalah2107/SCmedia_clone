@@ -2,6 +2,8 @@
 
 Portofolio profesional yang menampilkan karya, pengalaman, dan kemampuan pengembangan web serta desain grafis.
 
+Dengan namaku **Muhammad Fadil Falah**. Cuma orang biasa yang baru nyemplung ke dunia web. Belajar otodidak, banyak coba-coba, banyak juga error-nya. Suka tantangan, sok sibuk tiap hari, padahal masih ngotak-atik HTML.
+
 ## Struktur Proyek
 
 ```
@@ -68,7 +70,7 @@ project/
 - **Deskripsi**: Situs web portofolio responsif untuk instansi pemerintah.
 - **Teknologi**: React 18, TypeScript, Tailwind CSS, Supabase.
 - **Fitur**: State management dengan React Query, editor teks kaya dengan Tiptap.
-- **Link**: [Kunjungi Disporapar](https://localhost:8080)
+- **Link**: [Kunjungi Disporapar](https://disporapar.paserkab.go.id)
 
 ### 3. **Website Safir Store**
 
@@ -86,7 +88,7 @@ project/
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/fadilfalah2107/Portofolioku.git
    ```
 2. Buka file `index.html` di browser.
 3. Pastikan server PHP aktif untuk menjalankan form kontak.
